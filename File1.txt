@@ -1,6 +1,3 @@
 File in master branch 
-Created Dev branch and modified File1.txt
-Adding changes.
-Sub dev branch
-changes in subdev branch
-deleted the intermediate branch
+1st commit in Dev Branch
+2nd commit in Dev Branch
